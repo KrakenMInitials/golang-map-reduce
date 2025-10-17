@@ -1,7 +1,9 @@
 # Assignment 1: MapReduce
-Instructions provided by instructor of Fall 2018 Columbia University Graduate class COMS 4113 (unknown to me)
+# DISCLAIMER
+Instructions provided by instructor of Fall 2018 Columbia University Graduate class COMS 4113 (unknown to me) who in turn based it off MIT 6.824.
+Folder "6.824" is cloned directly from source at MIT and "MIT 6.824 Lab1_MapReduce.html" is the official html page of the course assignment.
 This instructions.md and src/main folder was pulled from Github user Zefeng-Liu https://github.com/Columbia-COMS-4113-Fall-18/assignments
-All other work is original and created by self (Moe Aung @KrakenMInitials)
+All rights reserved goes to the respective parties. I (KrakenMInitials) simply followed the course instructions.
 
 ### Introduction
 
@@ -281,3 +283,4 @@ code. (We'll also know if you backdate the tag, don't do that.)
 ### Questions
 
 Please post questions on [Piazza](https://www.piazza.com/columbia/fall2017/comsw4113/home).
+
