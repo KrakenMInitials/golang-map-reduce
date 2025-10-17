@@ -1,0 +1,4 @@
+MapReduce
+
+MapReduce is a concept/framework/idea? produced by Google in 2005.
+The alternatve
